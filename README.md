@@ -21,7 +21,7 @@ The design is responsive, using **CSS Flexbox** for content layout and organizat
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Nikotastic/Javascript-.git
+git clone https://github.com/Nikotastic/Interactive-Message-System.git
 ```
 ### 2. Navigate to the project folder:
 
